@@ -9,7 +9,7 @@ I'm Marcos, a passionate software developer with a Bachelor's degree in Computer
 
 ## 🌟 A Few of My Projects
 
-- **[Hekate](https://github.com/marscos/hekate-app) 🛠 (WIP)**: A [SvelteKit](https://kit.svelte.dev/) web app for DJs to visualize music collections as a graph, helping identify compatible tracks for mixing. Integrates with the [Spotify API](https://developer.spotify.com/documentation/web-api/).
+- **[Hekate](https://github.com/marscos/hekate-app) 🛠 (WIP)**: A [SvelteKit](https://kit.svelte.dev/) web app for DJs to visualize music collections as a graph, helping identify compatible tracks for mixing.
 - **[Imouto Bot](https://github.com/marscos/imouto_bot)**: A Telegram bot that uses [AniList's GraphQL API](https://anilist.gitbook.io/anilist-apiv2-docs/) to provide anime/manga search results via inline queries. Built with simplicity, ease of deployment and scalability in mind, currently hosted on [Vercel](https://vercel.com/).
 - **[NestJS Sample App](https://github.com/marscos/nestjs-sample-app)**: A microservice for managing departments and employees, featuring a [Prisma](https://www.prisma.io/)-based SQLite database and [Swagger](https://swagger.io/) documentation. Deployed on [Koyeb](https://www.koyeb.com/) with a simple web interface built using [AlpineJS](https://alpinejs.dev/).
 

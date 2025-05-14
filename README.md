@@ -21,7 +21,7 @@ I'm Marcos, a passionate software developer with a Bachelor's degree in Computer
 - **Themes**: Web Browsers, SEO, UI/UX, Accessibility, Responsive Designs, Web Performance Optimization, Functional programming, ETL processes, Machine Learning, Data Modeling
 
 ## 📭 Reach Out!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcos-carvalho-de-assis-736289147/) and check out my repositories here on GitHub!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcos-carvalho-de-assis-736289147/)!
 
 ## ✨ Fluff
 ![My recent scrobbles](https://lastfm-recently-played.vercel.app/api?user=Dashz&count=3&footer_style=normal_stats)

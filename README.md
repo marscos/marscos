@@ -13,7 +13,7 @@ I'm Marcos, a passionate software developer with a Bachelor's degree in Computer
 - **[Imouto Bot](https://github.com/marscos/imouto_bot)**: A Telegram bot that uses [AniList's GraphQL API](https://anilist.gitbook.io/anilist-apiv2-docs/) to provide anime/manga search results via inline queries. Built with simplicity, ease of deployment and scalability in mind, currently hosted on [Vercel](https://vercel.com/).
 - **[NestJS Sample App](https://github.com/marscos/nestjs-sample-app)**: A microservice for managing departments and employees, featuring a [Prisma](https://www.prisma.io/)-based SQLite database and [Swagger](https://swagger.io/) documentation. Deployed on [Koyeb](https://www.koyeb.com/) with a simple web interface built using [AlpineJS](https://alpinejs.dev/).
 
-## 👨‍💻 Favorite Tech
+## 👨‍💻 Topics of Interest
 
 - **Languages**: [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), HTML, CSS
 - **Frameworks**: [Svelte](https://svelte.dev/), [React](https://reactjs.org/), [Angular](https://angular.io/), [Stencil](https://stenciljs.com/), [NestJS](https://nestjs.com/)

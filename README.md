@@ -1,4 +1,4 @@
-I'm Marcos, a passionate software developer with a Bachelor's degree in Computer Science from [UFMG](https://www.ufmg.br/), an IT Technician degree from [CEFET-MG](https://en.wikipedia.org/wiki/Federal_Center_for_Technological_Education_of_Minas_Gerais) and over 4 years of professional experience. I specialize in building thoughtful, user-friendly web applications and architecting data-driven solutions. My expertise spans across multiple frameworks, languages, and domains, and I'm always eager to learn and explore new technologies.
+I'm Marcos, a passionate software developer with a Bachelor's degree in Computer Science from [UFMG](https://www.ufmg.br/) and an IT Technician degree from [CEFET-MG](https://en.wikipedia.org/wiki/Federal_Center_for_Technological_Education_of_Minas_Gerais) with a few years of professional experience. I love building thoughtful, user-friendly solutions. I have experience across multiple frameworks, languages, and domains, and am always eager to learn about cutting-edge tech.
 
 ### 💼 Recent Professional Experience
 

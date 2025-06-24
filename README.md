@@ -14,7 +14,7 @@ I'm Marcos, a passionate software developer with a Bachelor's degree in Computer
 
 ### 👨‍💻 Topics of Interest
 
-- **Languages**: [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), HTML, CSS
+- **Languages**: HTML, CSS, [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/)
 - **Frameworks**: [Svelte](https://svelte.dev/), [React](https://reactjs.org/), [Angular](https://angular.io/), [Stencil](https://stenciljs.com/), [NestJS](https://nestjs.com/)
 - **Tools**: [shadcn](https://ui.shadcn.com/), [Electron](https://www.electronjs.org/)/[Tauri](https://v2.tauri.app/), [Prisma](https://www.prisma.io/), [Elasticsearch](https://www.elastic.co/), [Apache Spark](https://spark.apache.org/), [Docker](https://www.docker.com/), 
 - **Themes**: Web Browsers, SEO, UI/UX, Accessibility, Responsive Designs, Web Performance Optimization, Functional programming, ETL processes, Machine Learning, Data Modeling

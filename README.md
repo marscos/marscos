@@ -12,14 +12,6 @@ I'm Marcos, a passionate software developer with a Bachelor's degree in Computer
 - **[Data Mapper](https://github.com/marscos/data-mapper)**: A simple React app capable of mapping data from an input JSON and static values to an output object that follows the Amazon Partner Network (APN) Customer Engagements (ACE) data schema, through a [TanStack Form](https://tanstack.com/form/latest) form that supports [Handlebars](https://handlebarsjs.com/) expressions and output validation using [Zod V4](https://zod.dev/), along with components built on top of [shadcn](https://ui.shadcn.com/).
 - **[NestJS Sample App](https://github.com/marscos/nestjs-sample-app)**: A sample microservice built in ~8 hours, featuring a [Prisma](https://www.prisma.io/)-based SQLite database and [Swagger](https://swagger.io/) documentation. Deployed on [Koyeb](https://www.koyeb.com/) with a simple web interface built using [AlpineJS](https://alpinejs.dev/).
 
-### 👨‍💻 Topics of Interest
-
-- **Languages**: HTML, CSS, [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/)
-- **Frameworks**: [Svelte](https://svelte.dev/), [React](https://reactjs.org/), [Angular](https://angular.io/), [Stencil](https://stenciljs.com/), [NestJS](https://nestjs.com/)
-- **Tools**: [shadcn](https://ui.shadcn.com/), [Electron](https://www.electronjs.org/)/[Tauri](https://v2.tauri.app/), [Prisma](https://www.prisma.io/), [Elasticsearch](https://www.elastic.co/), [Apache Spark](https://spark.apache.org/), [Docker](https://www.docker.com/), 
-- **Themes**: Web Browsers, SEO, UI/UX, Accessibility, Responsive Designs, Web Performance Optimization, Functional programming, ETL processes, Machine Learning, Data Modeling
-
-
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcos-carvalho-de-assis-736289147/)!
 
 ![My recent scrobbles](https://lastfm-recently-played.vercel.app/api?user=Dashz&count=3&footer_style=normal_stats)
